@@ -22,7 +22,7 @@ on:
 
 env:
   AWS_REGION: ap-southeast-1
-  ECR_REGISTRY: 085603761053.dkr.ecr.us-east-1.amazonaws.com
+  ECR_REGISTRY: 085603761053.dkr.ecr.ap-southeast-1.amazonaws.com
   ECR_REPOSITORY: nodejs-random-color-0601
 
 jobs:
